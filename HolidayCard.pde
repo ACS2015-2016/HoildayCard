@@ -1,5 +1,6 @@
 // we don't need outlines for any of these shapes
 
+void setup(){
 size (400, 400);
 noStroke();
 
@@ -70,3 +71,4 @@ line(snowmanX - 132, 171, snowmanX - 91, 165);
 line(snowmanX + 61, 192, snowmanX + 135, 144);
 line(snowmanX + 104, 165, snowmanX + 142, 169);
 line(snowmanX + 86, 176, snowmanX + 113, 125);
+}
