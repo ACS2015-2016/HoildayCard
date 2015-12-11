@@ -1,5 +1,3 @@
-
-
 // we don't need outlines for any of these shapes
 
 size (400, 400);
